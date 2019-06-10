@@ -1,0 +1,21 @@
+body {
+  background-color: #e9ecef !important;
+}
+
+.tableauPlaceholder {
+  /* max-width: 50%; */
+  /* max-height: 50%; */
+  width: 93% !important;
+  min-height: 30% !important;
+  display: flex !important;
+  flex: 1 1 40%;
+  border: solid black 2px;
+}
+
+.tableauViz {
+  overflow: hidden;
+}
+
+.case-study-title {
+text-align: center;
+}
