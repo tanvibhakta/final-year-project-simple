@@ -2,6 +2,7 @@
   
       <div class="jumbotron jumbotron-fluid">
         <div class="container">
+          {% for table in site.data.viz-table %}
           <h1 class="display-5">{{table.title}}</h1>
           <p class="lead">
             {{table.desc}}
@@ -33,6 +34,7 @@
                 value="iframeSizedToWindow=true"
             /></object>
           </div> -->
-          {{page.embed}}
+          {{table.embed}}
         </div>
+        {% endfor %}
       </div>
