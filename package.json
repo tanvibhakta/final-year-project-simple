@@ -1,0 +1,24 @@
+{
+  "name": "final-year-project-simple",
+  "version": "1.0.0",
+  "description": "testing my final year project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open", 
+    "start": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvibhakta/final-year-project-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvibhakta/final-year-project-simple/issues"
+  },
+  "homepage": "https://github.com/tanvibhakta/final-year-project-simple#readme",
+  "dependencies": {
+    "cypress": "^3.3.1"
+  }
+}
