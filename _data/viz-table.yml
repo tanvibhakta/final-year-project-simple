@@ -1,41 +1,39 @@
-- title: Captain Marvel
-  desc: short descriotion of events we are tracking here
+- title: 💪 Captain Marvel 💪
+  desc: Sentiment Analysis and visualisations on the Marvel movie Captain Marvel as a product.
 
-- title: Test1
-  desc: Lorem ipsum 
+- title: Sentiment analysis timeline over the release of trailer
+  desc: We observed that over the release of the trailer, the sentiment and the number of tweets went up. This is because of "hype" and it gradulally grows towards the release of the movie. However, it goes down after the movie. So we conclude that the overall attitide of the public was not favorable to the movie.
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 701px;'><object class='tableauViz' width='1536' height='701' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelCompoundVTweets&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
 
-- title: Test2
-  desc: Lorem ipsum potem
-  embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 701px;'><object class='tableauViz' width='1536' height='701' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelCompoundVTweets&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
-
-- title: Type shit here 
-  desc: And it will appear
+- title: Followers vs Favorites
+  desc: Users that have a mid range of followers (2k to 10k) tend to have more mass appeal, and have opinions that tend to pander to the general public. Businesses should try and swing "influencers" with thise range of followers as opposed to large accounts that will both be expensive and not respond to conversations.
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelFollowers&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>" 
 
 
-- title: poof
-  desc:
+- title: Average compund sentiment vs Followers
+  desc: Smaller accounts with lesser number of followers tended to be more opinionated and emotional on social media
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelLine&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
 
+- title: PewDiePie vs TSeries
+  desc: PewDiePie vs T-Series was an online competition between two YouTube channels, PewDiePie and T-Series for the title of the most-subscribed channel on YouTube, which was won by T-Series finally.
 
-- title:
-  desc:
+- title: Avg compound over various parts of the world
+  desc: This tracks the positive reactions for PewDiePie's channel and the support he garners throughout the world. We see a significant amount from Delhi which tells us that opinions do not have to be homogenous across locale
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelMap&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
 
 
-- title:
-  desc:
+- title: Compound sentiment for TSeries over release of trailer for URI
+  desc: Viral video, the trailer for Uri was released. The compound initially went really high and you could see that T Series was back on track garnering support from the 1.2 Billion strong Indian Community
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='CapnMarvelTimegraph&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
 
-- title: PewDiePie vs TSeries
-  desc: short descriotion of events we are tracking here
 
-- title:
-  desc:
+- title: Boycott surf excel
+  desc: Boycott Surf Excel - Detergent brand faces backlash for ad promoting Hindu-Muslim harmony
+
+- title: Tracking of Sentiment over various geographies in India
+  desc: Initially as the video came out, the public sentiment towards the video was really bad. People took to twitter to vent their opinions and make their displeasure known.
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='PewdMap&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
 
-
-- title:
-  desc:
+- title: Retweets over time (hour)
+  desc: Since this was a short-lived hashtag, we tracked sentiment by time. We found that users in India prefer to write their own sentiments as opposed to participating in boosting or agreeing with other users (hence the low retweet count)
   embed: "<script type='text/javascript' src='https://eu-west-1a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Feu-west-1a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;sentimentanalysisdataviz' /><param name='name' value='TseriesPewdLine&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>"
