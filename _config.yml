@@ -16,7 +16,10 @@
     
 title: Sentiment Analysis 🌝 and Data Visualisation 📈 of Social Media Feeds 🔖
 email: your-email@example.com
-description: Discover trends in social media representation of various brands, and make recommendations to their business strategies accordingly. 
+description: "This project aims to analyse social media feeds surrounding the release of a particular popular media and identify the trends and the sentiment that follows with it.
+We will visualise said trends and map different variables that could possibly be classified.
+The output data this project presents can be used by individuals and businesses to adopt changes to their business propositions and plans.
+"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
